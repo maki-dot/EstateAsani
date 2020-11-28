@@ -1,0 +1,14 @@
+F:\fimmahkameh\Asani\EstateApi\EstateApi\bin\Debug\netcoreapp2.1\EstateApi.deps.json
+F:\fimmahkameh\Asani\EstateApi\EstateApi\bin\Debug\netcoreapp2.1\EstateApi.runtimeconfig.json
+F:\fimmahkameh\Asani\EstateApi\EstateApi\bin\Debug\netcoreapp2.1\EstateApi.runtimeconfig.dev.json
+F:\fimmahkameh\Asani\EstateApi\EstateApi\bin\Debug\netcoreapp2.1\EstateApi.dll
+F:\fimmahkameh\Asani\EstateApi\EstateApi\obj\Debug\netcoreapp2.1\EstateApi.csprojAssemblyReference.cache
+F:\fimmahkameh\Asani\EstateApi\EstateApi\obj\Debug\netcoreapp2.1\EstateApi.csproj.CoreCompileInputs.cache
+F:\fimmahkameh\Asani\EstateApi\EstateApi\obj\Debug\netcoreapp2.1\EstateApi.RazorAssemblyInfo.cache
+F:\fimmahkameh\Asani\EstateApi\EstateApi\obj\Debug\netcoreapp2.1\EstateApi.RazorAssemblyInfo.cs
+F:\fimmahkameh\Asani\EstateApi\EstateApi\obj\Debug\netcoreapp2.1\EstateApi.AssemblyInfoInputs.cache
+F:\fimmahkameh\Asani\EstateApi\EstateApi\obj\Debug\netcoreapp2.1\EstateApi.AssemblyInfo.cs
+F:\fimmahkameh\Asani\EstateApi\EstateApi\obj\Debug\netcoreapp2.1\EstateApi.RazorTargetAssemblyInfo.cache
+F:\fimmahkameh\Asani\EstateApi\EstateApi\bin\Debug\netcoreapp2.1\EstateApi.pdb
+F:\fimmahkameh\Asani\EstateApi\EstateApi\obj\Debug\netcoreapp2.1\EstateApi.dll
+F:\fimmahkameh\Asani\EstateApi\EstateApi\obj\Debug\netcoreapp2.1\EstateApi.pdb
